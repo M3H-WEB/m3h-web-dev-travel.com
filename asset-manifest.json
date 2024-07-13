@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/m3h-web-dev-travel.com/static/css/main.f341a7c9.css",
+    "main.js": "/m3h-web-dev-travel.com/static/js/main.e490f28f.js",
+    "static/js/453.69a3e7c6.chunk.js": "/m3h-web-dev-travel.com/static/js/453.69a3e7c6.chunk.js",
+    "static/media/about-img.png": "/m3h-web-dev-travel.com/static/media/about-img.03222aa1fd08c0d7aa76.png",
+    "static/media/g2.png": "/m3h-web-dev-travel.com/static/media/g2.fd7bf4ea7e2ccf629c31.png",
+    "static/media/india.png": "/m3h-web-dev-travel.com/static/media/india.d5fc61e94feb91ff2eb7.png",
+    "static/media/us.png": "/m3h-web-dev-travel.com/static/media/us.fb3e1013c19bd80f4262.png",
+    "static/media/uk.png": "/m3h-web-dev-travel.com/static/media/uk.bb4396203c9f0dbeef9a.png",
+    "static/media/g6.png": "/m3h-web-dev-travel.com/static/media/g6.bba37072f1002b0ee6c1.png",
+    "static/media/g4.png": "/m3h-web-dev-travel.com/static/media/g4.a946d733895466048a26.png",
+    "static/media/g3.png": "/m3h-web-dev-travel.com/static/media/g3.eb6ef80242d57ff0f8bb.png",
+    "static/media/background img.png": "/m3h-web-dev-travel.com/static/media/background img.c771be2fab9ef4fea746.png",
+    "static/media/g1.png": "/m3h-web-dev-travel.com/static/media/g1.1a27688a0e206fb2602b.png",
+    "static/media/g5.png": "/m3h-web-dev-travel.com/static/media/g5.ae9d1de6afcc97536430.png",
+    "static/media/pakistan.png": "/m3h-web-dev-travel.com/static/media/pakistan.186d22edee6f49d8a60c.png",
+    "static/media/france.png": "/m3h-web-dev-travel.com/static/media/france.4925d099f94a65704376.png",
+    "static/media/italy.png": "/m3h-web-dev-travel.com/static/media/italy.caef0d443b2bced6f246.png",
+    "static/media/book-img.png": "/m3h-web-dev-travel.com/static/media/book-img.221cb2f4ad069607a0ba.png",
+    "index.html": "/m3h-web-dev-travel.com/index.html",
+    "main.f341a7c9.css.map": "/m3h-web-dev-travel.com/static/css/main.f341a7c9.css.map",
+    "main.e490f28f.js.map": "/m3h-web-dev-travel.com/static/js/main.e490f28f.js.map",
+    "453.69a3e7c6.chunk.js.map": "/m3h-web-dev-travel.com/static/js/453.69a3e7c6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f341a7c9.css",
+    "static/js/main.e490f28f.js"
+  ]
+}
